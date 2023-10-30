@@ -1,14 +1,14 @@
 //API Path
 https://api.stripe.com/v1/payment_methods/:id
-\r\n
+
 // Python SDK
 import stripe
 stripe.api_key = "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
-\r\n
+
 stripe.PaymentMethod.retrieve(
   "pm_1Nwt3J2eZvKYlo2Ca2l9SNKK",
 )
-\r\n
+
 //Response
 {
   "id": "pm_1Nwt3J2eZvKYlo2Ca2l9SNKK",
