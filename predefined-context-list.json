@@ -1,3 +1,8 @@
 [
-  "https://raw.githubusercontent.com/gamma-9-technology/codgen-context-lib/main/stripe-payment-methods.txt"
+  {
+    "name": "Stripe Payment Method Retreive",
+    "url": "https://raw.githubusercontent.com/gamma-9-technology/codgen-context-lib/main/stripe-payment-methods.txt",
+    "text": "",
+    "platform": "Stripe"
+  }
 ]
